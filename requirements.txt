@@ -1,0 +1,6 @@
+streamlit==1.12.0
+pinecone-client==2.2.1
+langchain==0.0.184
+cohere==3.2.1
+PyPDF2==2.11.1
+tqdm==4.64.1
