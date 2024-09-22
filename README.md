@@ -29,7 +29,6 @@ This project implements an interactive Question Answering (QA) bot using Retriev
    ```
    PINECONE_API_KEY=your_pinecone_api_key
    COHERE_API_KEY=your_cohere_api_key
-   PINECONE_ENV=your_pinecone_environment
    ```
 
 3. Build the Docker image:
